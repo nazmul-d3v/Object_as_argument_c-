@@ -1,3 +1,5 @@
+//Static member function 
+
 #include<iostream>
 using namespace std;
 
